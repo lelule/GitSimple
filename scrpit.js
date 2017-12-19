@@ -1,1 +1,2 @@
-alert("Bonjour gitHub")
+var a="Bonjour gitHUb"
+alert(a)
